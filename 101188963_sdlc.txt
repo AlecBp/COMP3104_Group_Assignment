@@ -20,3 +20,5 @@ Design Phase: The design of the architecture is proposed for the project and is 
 Development Phase: Being the longest project this forms an important step, as here the actual project is both developed and erected.
 
 Testing Phase: This strategy of testing is seen in almost all stages of SDLC but in this phase testing only refers to the practice where bugs and other defects of the system are reported, found and then corrected. The whole project is shifted to a particular test environment, and many different types of testing processes are taken up like functional, system, integration, and acceptance testing.
+
+Maintenance Phase: Once the system undergoes testing, it will go live. The system is first restricted to a limited user and then finally tested in a real business environment for UAT.
