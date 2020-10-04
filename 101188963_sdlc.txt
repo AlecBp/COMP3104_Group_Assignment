@@ -14,3 +14,5 @@ Software Development Life Cycle
 SDLC stands for a process which throws light on the development, design, and even maintenance of the software project, making sure that all the functional and other user requirements are met. This methodology ensures the improvement of the quality of the software project and the whole process of development of software.
 
 Requirement Gathering & Analysis Phase: This is the first and vital phase of SDLC, which is for the success of software. This is a typical phase where there is communication between various stakeholders of the project team as various requirements are gathered from the clients.
+
+Design Phase: The design of the architecture is proposed for the project and is further caught in a design document.
