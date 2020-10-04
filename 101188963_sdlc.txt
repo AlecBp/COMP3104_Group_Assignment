@@ -7,3 +7,8 @@ In a DevOps model, Developers and Operations teams work together closely — and
 Amazon Web Services describes DevOps like this: “DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.” So, like many SDLC models, DevOps is not only an approach to planning and executing work, but also a philosophy that demands significant mindset and culture changes in an organization.
  
 Choosing the right SDLC model for your software development project will require careful thought. But keep in mind that a methodology for planning and guiding your project is only one ingredient for success. Even more important is assembling a solid team of skilled talent committed to moving the project forward through every unexpected challenge or setback.
+
+
+Software Development Life Cycle
+
+SDLC stands for a process which throws light on the development, design, and even maintenance of the software project, making sure that all the functional and other user requirements are met. This methodology ensures the improvement of the quality of the software project and the whole process of development of software.
