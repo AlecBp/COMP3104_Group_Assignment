@@ -1,9 +1,0 @@
-Importance and benefits of DevOps
-DevOps describes a culture and set of processes that bring development and operations teams together to complete software development. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches. And, it’s gaining popularity at a rapid rate.
-1 - Shorter Development Cycles, Faster Innovation
-2 - Reduced Deployment Failures, Rollbacks, and Time to Recover
-3 - Improved Communication and Collaboration
-4 - Increased Efficiencies
-5 - Reduced Costs and IT Headcount
-
-More on this topic: https://shadow-soft.com/why-devops-important/#:~:text=DevOps%20describes%20a%20culture%20and,popularity%20at%20a%20rapid%20rate.
