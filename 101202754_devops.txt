@@ -1,0 +1,4 @@
+Definition
+Academics and practitioners have not developed a unique definition for the term "DevOps".[a][b][c][d]
+From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu—three computer science researchers from the CSIRO and the Software Engineering Institute—suggested defining DevOps as "a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality".[6]
+The term DevOps, however, has been used in multiple contexts.
