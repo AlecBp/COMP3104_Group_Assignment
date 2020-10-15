@@ -1,0 +1,7 @@
+COMP 3104 - DevOps course
+
+This course is designed to better prepare professionals entering the IT field. Specifically, a field where servers, web apps and infrastructure 
+will be core to business needs.   COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps 
+technologies. 
+
+More information about DevOps: https://learn-ca-central-1-prod-fleet01-xythos.s3.ca-central-1.amazonaws.com/5ea890ce0c586/10931064?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27COMP%25203104-2020-DevOps-CSI.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200928T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PLXDUOTQ63%2F20200928%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Signature=60421473abd031c9a8e2276b22cbe91882f1095c3f7fe2585602d9fa05a93488

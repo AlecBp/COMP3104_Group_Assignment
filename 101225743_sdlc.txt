@@ -1,0 +1,12 @@
+Importance and benefits of DevOps:
+
+DevOps is important because it's a software development and operations approach that enables faster development of new products and easier 
+maintenance of existing deployments.
+
+1. Reduced time to market
+2. Faster innovation
+3. Increased efficiency in development
+4. Higher reliability
+5. Customer satisfaction
+
+Learn more here: https://wishdesk.com/blog/why-devops-is-important
