@@ -1,0 +1,24 @@
+Dev ops - SDLC
+
+The DevOps methodology is the newcomer to the SDLC scene. As this article explains, it emerged from two trends: the application of Agile and Lean practices to operations work, and the general shift in business toward seeing the value of collaboration between development and operations staff at all stages of the SDLC process.
+ 
+In a DevOps model, Developers and Operations teams work together closely — and sometimes as one team — to accelerate innovation and the deployment of higher-quality and more reliable software products and functionalities. Updates to products are small but frequent. Discipline, continuous feedback and process improvement, and automation of manual development processes are all hallmarks of the DevOps model.
+ 
+Amazon Web Services describes DevOps like this: “DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.” So, like many SDLC models, DevOps is not only an approach to planning and executing work, but also a philosophy that demands significant mindset and culture changes in an organization.
+ 
+Choosing the right SDLC model for your software development project will require careful thought. But keep in mind that a methodology for planning and guiding your project is only one ingredient for success. Even more important is assembling a solid team of skilled talent committed to moving the project forward through every unexpected challenge or setback.
+
+
+Software Development Life Cycle
+
+SDLC stands for a process which throws light on the development, design, and even maintenance of the software project, making sure that all the functional and other user requirements are met. This methodology ensures the improvement of the quality of the software project and the whole process of development of software.
+
+Requirement Gathering & Analysis Phase: This is the first and vital phase of SDLC, which is for the success of software. This is a typical phase where there is communication between various stakeholders of the project team as various requirements are gathered from the clients.
+
+Design Phase: The design of the architecture is proposed for the project and is further caught in a design document.
+
+Development Phase: Being the longest project this forms an important step, as here the actual project is both developed and erected.
+
+Testing Phase: This strategy of testing is seen in almost all stages of SDLC but in this phase testing only refers to the practice where bugs and other defects of the system are reported, found and then corrected. The whole project is shifted to a particular test environment, and many different types of testing processes are taken up like functional, system, integration, and acceptance testing.
+
+Maintenance Phase: Once the system undergoes testing, it will go live. The system is first restricted to a limited user and then finally tested in a real business environment for UAT.
